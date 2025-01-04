@@ -1,4 +1,4 @@
-[readme.pdf](https://github.com/user-attachments/files/18307270/readme.pdf)
+Curriculum Learning to Train model:
 We have trained the network in 4 ways: 1. Both Acuity and Contrast transformations, 2. Only Acuity,
 3. Only Contrast and 4. Without any transformations. For all the networks we have implemented a
 developmentally plausible Curriculum. We have used the Dataloader to generate data based on
